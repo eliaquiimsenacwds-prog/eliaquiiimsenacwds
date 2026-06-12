@@ -43,5 +43,5 @@ prog&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <a href="https://www.linkedin.com/in/eliaquiimsenacwds" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/eliaquiimsenacwds/eliaquiimsenacwds/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eliaquiimsenacwds-prog/eliaquiimsenacwds-prog/blob/output/github-contribution-grid-snake.svg)
 
