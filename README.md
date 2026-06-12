@@ -14,7 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/denisilvace"> 
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliaquiimsenacwds&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliaquiimsenacwds&layout=compact&langs_count=16&theme=dark" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliaquiimsenacwds-
+prog&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliaquiimsenacwds-prog&layout=compact&langs_count=16&theme=dark" />
   </a>
 </div>
